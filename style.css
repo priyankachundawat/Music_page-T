@@ -1,0 +1,185 @@
+.music-internal{
+    margin: auto;
+    width: 80%;
+}
+
+
+.header{
+    background-color: #000;
+    min-height: 50px;
+    width: 100%;
+}
+
+.headerlink{
+    float: left;
+    font-size: 20px;
+    padding: 18px 18px;
+}
+
+a{
+    color: #ededed;
+    text-decoration: none;
+}
+
+#background-image{
+   background-image: url("images/gabriel.jpg");
+   padding-bottom: 50px;
+   background-size: cover;
+   width: 100%;  
+}
+
+.inner-header{   
+    padding-top: 20px;
+    width: 100%;
+}
+    
+.inner-content{ 
+    padding-top: 10%;
+    padding-bottom: 20%; 
+}
+
+p{
+    font-size:20px;
+    color: #ededed;
+}
+
+.Music{
+     background-color: #000;
+    height: 600px;
+}
+.button {
+    color: #fff; 
+    background-color: #c9302c; 
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125); 
+    padding: 10px 16px; 
+    font-size: 18px; 
+    border-radius: 6px; 
+    text-decoration: none;
+}
+.internal-music{
+    padding-top: 4%;
+    width: 70%;
+    margin: auto;
+}
+
+.mobile-image{
+    
+    background-color: #FFFAFA ;
+    height: 500px;
+}
+.thumbnail {
+    max-width:100%;
+}
+
+.Overview{
+    background-color: #000;
+    height: 400px;
+}
+
+.internal-overview{
+    padding-top: 4%;
+    width: 70%;
+    margin: auto;
+    
+}
+.mytunes-img{
+    background-color: #FFFAFA ;
+    height: 950px;
+}
+
+#night{
+   background-image: url("images/night.jpg");
+   padding-bottom: 50px;
+   background-size: cover;
+   width: 100%;  
+   height: 70%;
+}
+.internal-night{   
+    padding-top: 20px;
+    width: 80%;
+}
+    
+.night-content{ 
+    padding-top: 10%;
+    
+}
+
+.gc{
+    
+    padding-top: 10px;
+    margin-top: 30px;
+}
+
+#internal-gc{
+    width: 70%;
+    overflow: auto;
+}
+
+.gcimg{
+    height: 300px;
+    float:left;
+    width: 40%;   
+    background-color: #fff;  
+    margin: auto; 
+    margin-left:12%;
+    margin-right: 3%;
+}
+.thumbnail1 {
+    max-width:100%;
+}
+.cards-content{
+    padding-left: 3%;
+    font-family: monospace;
+    margin-left: 15%;
+    margin-top: 40px;
+    font-size: 15px;
+    color:#000;  
+    font-weight: bold; 
+}
+.footer{
+    background-color: #000;
+    min-height: 170px;
+    width: 100%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.inner-footer{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.heading{
+    color: #ededed;
+    float: left;
+    font-size: 20px;
+    padding-left: 6%;
+    padding-right: 4%;
+}
+
+.inner-content{
+    color: #ededed;
+    text-decoration: none;
+    font-size : 15px;
+    list-style-type: none;
+}
+
+.footer1{
+    background-color: #808080;
+    min-height: 40px;
+    width: 80%;
+    margin: auto;
+    padding-top: 1.5%;
+}
+.footer1-content{
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    color: #ededed;
+    padding-top: 1px;
+    padding-bottom: 1px;
+  
+}
+
